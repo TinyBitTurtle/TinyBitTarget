@@ -1,4 +1,6 @@
-﻿namespace TinyBitTurtle
+﻿using TinyBitTurtle.Core;
+
+namespace TinyBitTurtle
 {
     public partial class ScoreCtrl : SingletonMonoBehaviour<ScoreCtrl>
     {

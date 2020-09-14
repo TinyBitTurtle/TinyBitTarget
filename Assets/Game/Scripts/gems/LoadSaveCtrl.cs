@@ -3,6 +3,7 @@ using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using System;
 using System.Text;
+using TinyBitTurtle.Core;
 
 namespace TinyBitTurtle
 {
